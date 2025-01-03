@@ -1,7 +1,5 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  
+  font-family:  Helvetica, Inter, Space Mono Arial, sans-serif;
   padding: 2rem;
 }
 body {
@@ -13,7 +11,7 @@ body {
   background: -moz-linear-gradient(90deg, rgba(2,6,10,1) 0%, rgba(28,42,64,1) 35%);
   background: -webkit-linear-gradient(90deg, rgba(2,6,10,1) 0%, rgba(28,42,64,1) 35%);
   background: linear-gradient(90deg, rgba(2,6,10,1) 0%, rgba(28,42,64,1) 70%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#02060a",endColorstr="#1c2a40",GradientType=1); 
+  
 }
 .space-mono {
   font-family: Inter , "Space Mono", serif;
